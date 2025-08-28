@@ -1,2 +1,3 @@
 # bootcampProg_C-7
-Es para hacer seguiiento d trabajo colaborativo de itrodución a la prograamación
+Es para hacer seguimiento de trabajo colaborativo de fundamwntos de Programacón
+
